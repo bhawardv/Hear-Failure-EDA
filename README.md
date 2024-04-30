@@ -1,4 +1,4 @@
-# Heat-Failure-EDA<br>
+# Heart-Failure-EDA<br>
 
 The dataset provided for this project is focused on heart failure, a critical medical condition characterized by 
 the heart's inability to pump blood effectively, leading to inadequate circulation throughout the body. Here's an 
